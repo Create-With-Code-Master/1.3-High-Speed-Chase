@@ -6,8 +6,8 @@ layout: tabbed-assignment
 
 Before starting this assignment:
 1. Launch **GitHub Desktop**, then:
-   - Confirm that you are on your **{{site.data.assignment.git-previous-branch}}** branch (go there if you are not).
-   - Create a **{{site.data.assignment.git-current-branch}}** branch.
+   - Confirm that you are on your **{{site.data.assignment.git-prev-branch}}** branch (go there if you are not).
+   - Create a **{{site.data.assignment.git-curr-branch}}** branch.
 1. Get headphones if you need them, then watch the [lesson][] videos **taking notes as you go**. Be sure to get:
    - Vocabulary
    - Creating C# scripts
