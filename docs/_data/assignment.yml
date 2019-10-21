@@ -1,5 +1,8 @@
 # Configuration that is shared between all of the pages in this assignment.
 #
+# Git stuff
+git-current-branch: step-3
+get-previous-branch: step-2
 # Link to an external lesson (e.g., a lesson on Code.org or TestOut).
 lesson: https://learn.unity.com/tutorial/1-3-make-the-camera-follow-the-vehicle-with-variables?courseId=5cf96c41edbc2a2ca6e8810f&projectId=5caccdfbedbc2a3cef0efe63
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
@@ -7,5 +10,10 @@ lesson: https://learn.unity.com/tutorial/1-3-make-the-camera-follow-the-vehicle-
 outcome:
 # Link to lesson slides, displayed on Resources tab if not empty.
 slides:
+# Name and URL of repository holding the starter code for this assignment.
+starter-code-name: SKHS-GDP-2019-2020/Prototype-1
+starter-code-org: SKHS-GDP-2019-2020
+starter-code-repo: Prototype-1
+starter-code-url: https://github.com/SKHS-GDP-2019-2020/Prototype-1
 # Link to Google Doc template for assignment submission.
 template: https://docs.google.com/document/d/1GW1NCH1u0l-wq7CPvFUMl5gTKMGDRD78IEUeN4Du46I/edit?usp=sharing
