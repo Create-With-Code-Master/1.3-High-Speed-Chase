@@ -4,7 +4,7 @@ layout: tabbed-assignment
 
 # Submission Instructions
 
-## If you are still working on the lesson:
+**If you are still working on the lesson:**
 
 1. Commit and push your changes.
 1. Submit a link to the **step-3** branch of your **Prototype-1** repository.
@@ -14,7 +14,7 @@ layout: tabbed-assignment
 1. Update your notes so that you know where you were and what to get started on next class.
 1. Be sure to complete the lesson and resubmit.
 
-## If you have completed the lesson:
+**If you have completed the lesson:**
 
 1. Make yourself an editable copy of the [submission template][template] for this assignment. 
 If you need tips on how to do this, expand the instructions below. Then…
