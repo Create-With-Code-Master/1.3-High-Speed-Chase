@@ -7,7 +7,7 @@
   - Construct an object.
 * Working with Unity
   - Attach a script to the camera
-  - Explain how the FollowCamera script works
+  - Explain how the Update() method of the FollowCamera script works
 * Source Code Management
   - Create a branch
   - Commit changes to the branch
