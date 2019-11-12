@@ -8,6 +8,7 @@
 * Working with Unity
   - Attach a script to the camera
   - Explain how the Update() method of the FollowCamera script works
+  - Maintain file structure, use naming conventions.
 * Source Code Management
   - Create a branch
   - Commit changes to the branch
