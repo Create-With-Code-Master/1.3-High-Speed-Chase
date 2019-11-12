@@ -3,7 +3,7 @@
   - Define data type and give an example
   - Create a C# script
   - Declare a variable
-  - Initialize a variable (assign values)
+  - Assign values (initialize and as the result of a statement)
   - Construct an object.
 * Working with Unity
   - Attach a script to the camera
